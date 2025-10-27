@@ -1,0 +1,15 @@
+[
+  { "name": "Mie Gacoan Lv.0", "price": 15000 },
+  { "name": "Mie Gacoan Lv.1", "price": 15000 },
+  { "name": "Mie Gacoan Lv.2", "price": 15000 },
+  { "name": "Mie Gacoan Lv.3", "price": 15000 },
+  { "name": "Mie Hompimpa Lv.0", "price": 15000 },
+  { "name": "Mie Hompimpa Lv.1", "price": 15000 },
+  { "name": "Mie Hompimpa Lv.2", "price": 15000 },
+  { "name": "Mie Hompimpa Lv.3", "price": 15000 },
+  { "name": "Air Mineral", "price": 6500 },
+  { "name": "Ice Tea", "price": 6500 },
+  { "name": "Udang Keju", "price": 12000 },
+  { "name": "Udang Rambutan", "price": 12000 },
+  { "name": "Dimsum Ayam", "price": 12000 }
+]
